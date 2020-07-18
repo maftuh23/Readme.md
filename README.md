@@ -1,4 +1,25 @@
-# Readme.md
+# Skyework from framework javascript
 
-COBA
-![github stats](https://github-readme-stats.vercel.app/api?username=maftuh23&show_icons=true&fbclid=IwAR0l4Ic2u2M8d4pAMvqJkZfWLvJi-WTUc79r7tCE6f-L5Rpe3U26odRp680\)
+## Getting Super Powers
+
+Becoming a super hero is a fairly straight forward process:
+
+```
+$ give me super-powers
+```
+
+{% hint style="info" %}
+ Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+{% endhint %}
+
+Once you're strong enough, save the world:
+
+{% code title="hello.sh" %}
+```bash
+# Ain't no code for that yet, sorry
+echo 'You got to trust me on this, I saved the world'
+```
+{% endcode %}
+
+
+
